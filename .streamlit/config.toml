@@ -1,0 +1,13 @@
+[theme]
+# 主色调：保留一点点红作为点缀（按钮颜色）
+primaryColor = "#D32F2F"
+
+# 背景色：设为透明，这样才能漏出底下的图片
+backgroundColor = "#FFFFFF"
+
+# 侧边栏：浅灰，区分层级
+secondaryBackgroundColor = "#F0F2F6"
+
+# 字体：深灰，更有质感
+textColor = "#333333" 
+font = "sans serif"
